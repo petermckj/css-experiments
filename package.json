@@ -1,0 +1,26 @@
+{
+  "name": "css-experiments",
+  "version": "1.0.0",
+  "description": "a collection of css experiments",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/petermckj/css-experiments.git"
+  },
+  "author": "petermckj",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/petermckj/css-experiments/issues"
+  },
+  "homepage": "https://github.com/petermckj/css-experiments#readme",
+  "devDependencies": {
+    "webpack": "^4.11.1",
+    "webpack-cli": "^3.0.3"
+  },
+  "dependencies": {
+    "lodash": "^4.17.10"
+  }
+}
